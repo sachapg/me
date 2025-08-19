@@ -6,6 +6,7 @@ My default public repo
 
 [Github MD syntax](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-[Github emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/github-actions-auto-update/README.md)
+[Emoji cheat sheet Github](https://github.com/ikatyang/emoji-cheat-sheet/blob/github-actions-auto-update/README.md)
+[Emoji keyboard](https://emojikeyboard.top/)
 
 [Simple http request test site](https://httpbin.org/)
