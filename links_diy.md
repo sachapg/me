@@ -8,6 +8,3 @@
 
 [fr.makercase.com](https://fr.makercase.com/)
 
-
-## Wireless Communication
-[Off Internet Mesh network](https://meshtastic.org/docs/introduction/)
