@@ -4,6 +4,8 @@ My default public repo
 ## Interesting URLs
 <sub>(No particular order)<sub>
 
+[AI Coding toolkit from github](https://github.com/github/spec-kit)
+
 [Simple http request test site](https://httpbin.org/)
 
 [PDF convert tools with privacy](https://luxpdf.com/#tools)
