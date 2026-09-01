@@ -18,6 +18,8 @@ https://arduiniana.org/libraries/tinygpsplus/
 
 [NMEA Protocol - popular messages](https://www.ardusimple.com/nmea-protocol-and-message-description/)
 
+https://swairlearn.bluecover.pt/nmea_analyser
+
 https://www.waveshare.com/LC76G-GNSS-Module.htm
 
 ## Mesh Wireless Communication
