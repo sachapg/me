@@ -18,6 +18,10 @@ https://github.com/BruceDevices/firmware
 
 ## GNSS / GPS Related
 
+[Very complete NMEA documentation](https://gpsd.gitlab.io/gpsd/NMEA.html)
+
+https://github.com/hmz06967/OZGPS_NMEA
+
 https://github.com/m5stack/TinyGPSPlus
 
 https://arduiniana.org/libraries/tinygpsplus/
