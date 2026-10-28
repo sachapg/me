@@ -20,6 +20,8 @@ https://github.com/BruceDevices/firmware
 
 [Very complete NMEA documentation](https://gpsd.gitlab.io/gpsd/NMEA.html)
 
+[NMEA parsing lib for arduino/esp32](https://github.com/107-systems/107-Arduino-NMEA-Parser/tree/main)
+
 https://github.com/hmz06967/OZGPS_NMEA
 
 https://github.com/m5stack/TinyGPSPlus
